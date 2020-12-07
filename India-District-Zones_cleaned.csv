@@ -1,0 +1,734 @@
+,District,State,Zone
+0,South Andamans,Andaman And Nicobar Islands,Red Zone
+1,Nicobars,Andaman And Nicobar Islands,Green Zone
+2,North And Middle Andaman,Andaman And Nicobar Islands,Green Zone
+3,Kurnool,Andhra Pradesh,Red Zone
+4,Guntur,Andhra Pradesh,Red Zone
+5,Krishna,Andhra Pradesh,Red Zone
+6,Chittoor,Andhra Pradesh,Red Zone
+7,Spsr Nellore,Andhra Pradesh,Red Zone
+8,West Godavari,Andhra Pradesh,Orange Zone
+9,YSR,Andhra Pradesh,Orange Zone
+10,Anantapur,Andhra Pradesh,Orange Zone
+11,Prakasam,Andhra Pradesh,Orange Zone
+12,East Godavari,Andhra Pradesh,Orange Zone
+13,Srikakulam,Andhra Pradesh,Orange Zone
+14,Visakhapatanam,Andhra Pradesh,Orange Zone
+15,Vizianagaram,Andhra Pradesh,Green Zone
+16,Lohit,Arunachal Pradesh,Green Zone
+17,Changlang,Arunachal Pradesh,Green Zone
+18,Dibang Valley,Arunachal Pradesh,Green Zone
+19,East Kameng,Arunachal Pradesh,Green Zone
+20,East Siang,Arunachal Pradesh,Green Zone
+21,KurungKumey,Arunachal Pradesh,Green Zone
+22,Lower Dibang Valley,Arunachal Pradesh,Green Zone
+23,Lower Subansiri,Arunachal Pradesh,Green Zone
+24,Papum Pare,Arunachal Pradesh,Green Zone
+25,Tawang,Arunachal Pradesh,Green Zone
+26,Tirap,Arunachal Pradesh,Green Zone
+27,Upper Siang,Arunachal Pradesh,Green Zone
+28,Upper Subansiri,Arunachal Pradesh,Green Zone
+29,West Kameng,Arunachal Pradesh,Green Zone
+30,West Siang,Arunachal Pradesh,Green Zone
+31,Anjaw,Arunachal Pradesh,Green Zone
+32,Longding,Arunachal Pradesh,Green Zone
+33,KraDaadi,Arunachal Pradesh,Green Zone
+34,Namsai,Arunachal Pradesh,Green Zone
+35,Siang,Arunachal Pradesh,Green Zone
+36,Kamle,Arunachal Pradesh,Green Zone
+37,Lower Siang,Arunachal Pradesh,Green Zone
+38,PakkeKessang,Arunachal Pradesh,Green Zone
+39,Leparada,Arunachal Pradesh,Green Zone
+40,Shi Yomi,Arunachal Pradesh,Green Zone
+41,Dhubri,Assam,Orange Zone
+42,Marigaon,Assam,Orange Zone
+43,Goalpara,Assam,Orange Zone
+44,Golaghat,Assam,Green Zone
+45,Karimganj,Assam,Green Zone
+46,Nalbari,Assam,Green Zone
+47,Hailakandi,Assam,Green Zone
+48,Cachar,Assam,Green Zone
+49,Kamrup,Assam,Green Zone
+50,Lakhimpur,Assam,Green Zone
+51,Kamrup Metro,Assam,Green Zone
+52,South SalmaraMancachar,Assam,Green Zone
+53,Barpeta,Assam,Green Zone
+54,Bongaigaon,Assam,Green Zone
+55,Darrang,Assam,Green Zone
+56,Dhemaji,Assam,Green Zone
+57,Dibrugarh,Assam,Green Zone
+58,Jorhat,Assam,Green Zone
+59,KarbiAnglong,Assam,Green Zone
+60,Kokrajhar,Assam,Green Zone
+61,Nagaon,Assam,Green Zone
+62,Dima Hasao,Assam,Green Zone
+63,Sivasagar,Assam,Green Zone
+64,Sonitpur,Assam,Green Zone
+65,Tinsukia,Assam,Green Zone
+66,Chi rang,Assam,Green Zone
+67,Baksa,Assam,Green Zone
+68,Udalguri,Assam,Green Zone
+69,Biswanath,Assam,Green Zone
+70,Majuli,Assam,Green Zone
+71,Charaideo,Assam,Green Zone
+72,Hojai,Assam,Green Zone
+73,West KarbiAnglong,Assam,Green Zone
+74,Munger,Bihar,Red Zone
+75,Patna,Bihar,Red Zone
+76,Rohtas,Bihar,Red Zone
+77,Buxar,Bihar,Red Zone
+78,Gaya,Bihar,Red Zone
+79,Nalanda,Bihar,Orange Zone
+80,Kaimur (Bhabua),Bihar,Orange Zone
+81,Siwan,Bihar,Orange Zone
+82,Gopalganj,Bihar,Orange Zone
+83,Bhojpur,Bihar,Orange Zone
+84,Begusarai,Bihar,Orange Zone
+85,Aurangabad,Bihar,Orange Zone
+86,Madhubani,Bihar,Orange Zone
+87,Purbi Champaran,Bihar,Orange Zone
+88,Bhagalpur,Bihar,Orange Zone
+89,Arwal,Bihar,Orange Zone
+90,Saran,Bihar,Orange Zone
+91,Nawada,Bihar,Orange Zone
+92,Lakhisarai,Bihar,Orange Zone
+93,Banka,Bihar,Orange Zone
+94,Vaishali,Bihar,Orange Zone
+95,Darbhanga,Bihar,Orange Zone
+96,Jehanabad,Bihar,Orange Zone
+97,Madhepura,Bihar,Orange Zone
+98,Purnia,Bihar,Orange Zone
+99,Sheikhpura,Bihar,Green Zone
+100,Araria,Bihar,Green Zone
+101,Jamui,Bihar,Green Zone
+102,Katihar,Bihar,Green Zone
+103,Khagaria,Bihar,Green Zone
+104,Kishanganj,Bihar,Green Zone
+105,Muzaffarpur,Bihar,Green Zone
+106,Pashchim Champaran,Bihar,Green Zone
+107,Saharsa,Bihar,Green Zone
+108,Samastipur,Bihar,Green Zone
+109,Sheohar,Bihar,Green Zone
+110,Sitamarhi,Bihar,Green Zone
+111,Supaul,Bihar,Green Zone
+112,Chandigarh,Chandigarh,Red Zone
+113,Raipur,Chhattisgarh,Red Zone
+114,Korba,Chhattisgarh,Orange Zone
+115,Surajpur,Chhattisgarh,Green Zone
+116,Bilaspur,Chhattisgarh,Green Zone
+117,Durg,Chhattisgarh,Green Zone
+118,Rajnandgaon,Chhattisgarh,Green Zone
+119,Ba star,Chhattisgarh,Green Zone
+120,Dantewada,Chhattisgarh,Green Zone
+121,Dhamtari,Chhattisgarh,Green Zone
+122,Janjgir-Champa,Chhattisgarh,Green Zone
+123,Jashpur,Chhattisgarh,Green Zone
+124,Kanker,Chhattisgarh,Green Zone
+125,Kabirdham,Chhattisgarh,Green Zone
+126,Korea,Chhattisgarh,Green Zone
+127,Mahasamund,Chhattisgarh,Green Zone
+128,Raigarh,Chhattisgarh,Green Zone
+129,Surguja,Chhattisgarh,Green Zone
+130,Bijapur,Chhattisgarh,Green Zone
+131,Narayanpur,Chhattisgarh,Green Zone
+132,Sukma,Chhattisgarh,Green Zone
+133,Kondagaon,Chhattisgarh,Green Zone
+134,Baloda Bazar,Chhattisgarh,Green Zone
+135,Gariyaband,Chhattisgarh,Green Zone
+136,Balod,Chhattisgarh,Green Zone
+137,Mungeli,Chhattisgarh,Green Zone
+138,Balrampur,Chhattisgarh,Green Zone
+139,Bemetara,Chhattisgarh,Green Zone
+140,Dadra And Nagar Haveli,Dadra And Nagar Haveli,Green Zone
+141,Daman,Daman And Diu,Green Zone
+142,Diu,Daman And Diu,Green Zone
+143,South East,Delhi,Red Zone
+144,Central,Delhi,Red Zone
+145,North,Delhi,Red Zone
+146,South,Delhi,Red Zone
+147,North East,Delhi,Red Zone
+148,West,Delhi,Red Zone
+149,Shahdara,Delhi,Red Zone
+150,East,Delhi,Red Zone
+151,New Delhi,Delhi,Red Zone
+152,North West,Delhi,Red Zone
+153,South West,Delhi,Red Zone
+154,North Goa,Goa,Green Zone
+155,South Goa,Goa,Green Zone
+156,Ahmadabad,Gujarat,Red Zone
+157,Surat,Gujarat,Red Zone
+158,Vadodara,Gujarat,Red Zone
+159,Anand,Gujarat,Red Zone
+160,Banas Kantha,Gujarat,Red Zone
+161,Panch Mahals,Gujarat,Red Zone
+162,Bhavnagar,Gujarat,Red Zone
+163,Gandhinagar,Gujarat,Red Zone
+164,ArvaIii,Gujarat,Red Zone
+165,Rajkot,Gujarat,Orange Zone
+166,Bharuch,Gujarat,Orange Zone
+167,Botad,Gujarat,Orange Zone
+168,Narmada,Gujarat,Orange Zone
+169,Chhotaudepur,Gujarat,Orange Zone
+170,Mahisagar,Gujarat,Orange Zone
+171,Mahesana,Gujarat,Orange Zone
+172,Patan,Gujarat,Orange Zone
+173,Kheda,Gujarat,Orange Zone
+174,Valsad,Gujarat,Orange Zone
+175,Dohad,Gujarat,Orange Zone
+176,Kachchh,Gujarat,Orange Zone
+177,Navsari,Gujarat,Orange Zone
+178,GirSomnath,Gujarat,Orange Zone
+179,Dang,Gujarat,Orange Zone
+180,SabarKantha,Gujarat,Orange Zone
+181,Tapi,Gujarat,Orange Zone
+182,Jamnagar,Gujarat,Orange Zone
+183,Surendranagar,Gujarat,Orange Zone
+184,Morbi,Gujarat,Green Zone
+185,Amreli,Gujarat,Green Zone
+186,Porbandar,Gujarat,Green Zone
+187,Junagadh,Gujarat,Green Zone
+188,Devbhumi Dwarka,Gujarat,Green Zone
+189,Sonipat,Haryana,Red Zone
+190,Faridabad,Haryana,Red Zone
+191,Gurugram,Haryana,Orange Zone
+192,Nuh,Haryana,Orange Zone
+193,Panipat,Haryana,Orange Zone
+194,Panchkula,Haryana,Orange Zone
+195,Palwal,Haryana,Orange Zone
+196,Rohtak,Haryana,Orange Zone
+197,Hisar,Haryana,Orange Zone
+198,Ambala,Haryana,Orange Zone
+199,Jhajjar,Haryana,Orange Zone
+200,Bhiwani,Haryana,Orange Zone
+201,Kaithal,Haryana,Orange Zone
+202,Kurukshetra,Haryana,Orange Zone
+203,Karna I,Haryana,Orange Zone
+204,Jind,Haryana,Orange Zone
+205,Sirsa,Haryana,Orange Zone
+206,Yamunanagar,Haryana,Orange Zone
+207,Fatehabad,Haryana,Orange Zone
+208,Charki Dadri,Haryana,Orange Zone
+209,Mahendragarh,Haryana,Green Zone
+210,Rewari,Haryana,Green Zone
+211,Una,Himachal Pradesh,Orange Zone
+212,Chamba,Himachal Pradesh,Orange Zone
+213,Hamirpur,Himachal Pradesh,Orange Zone
+214,Kangra,Himachal Pradesh,Orange Zone
+215,Sirmaur,Himachal Pradesh,Orange Zone
+216,Solan,Himachal Pradesh,Orange Zone
+217,Bilaspur,Himachal Pradesh,Green Zone
+218,Kinnaur,Himachal Pradesh,Green Zone
+219,Kullu,Himachal Pradesh,Green Zone
+220,Lahul And Spiti,Himachal Pradesh,Green Zone
+221,Mandi,Himachal Pradesh,Green Zone
+222,Shimla,Himachal Pradesh,Green Zone
+223,Bandipora,Jammu And Kashmir,Red Zone
+224,Shopian,Jammu And Kashmir,Red Zone
+225,Anantnag,Jammu And Kashmir,Red Zone
+226,Srinagar,Jammu And Kashmir,Red Zone
+227,Baramulla,Jammu And Kashmir,Orange Zone
+228,Kupwara,Jammu And Kashmir,Orange Zone
+229,Ganderbal,Jammu And Kashmir,Orange Zone
+230,Jammu,Jammu And Kashmir,Orange Zone
+231,Udhampur,Jammu And Kashmir,Orange Zone
+232,Kulgam,Jammu And Kashmir,Orange Zone
+233,Budgam,Jammu And Kashmir,Orange Zone
+234,Samba,Jammu And Kashmir,Orange Zone
+235,Kathua,Jammu And Kashmir,Orange Zone
+236,Rajouri,Jammu And Kashmir,Orange Zone
+237,Ramban,Jammu And Kashmir,Orange Zone
+238,Reasi,Jammu And Kashmir,Orange Zone
+239,Pulwama,Jammu And Kashmir,Green Zone
+240,Kishtwar,Jammu And Kashmir,Green Zone
+241,Doda,Jammu And Kashmir,Green Zone
+242,Poonch,Jammu And Kashmir,Green Zone
+243,Ranchi,Jharkhand,Red Zone
+244,Bokaro,Jharkhand,Orange Zone
+245,Garhwa,Jharkhand,Orange Zone
+246,Dhanbad,Jharkhand,Orange Zone
+247,Deoghar,Jharkhand,Orange Zone
+248,Hazaribagh,Jharkhand,Orange Zone
+249,Simdega,Jharkhand,Orange Zone
+250,Giridih,Jharkhand,Orange Zone
+251,Koderma,Jharkhand,Orange Zone
+252,Jamtara,Jharkhand,Orange Zone
+253,Chatra,Jharkhand,Green Zone
+254,Dumka,Jharkhand,Green Zone
+255,East Singhbum,Jharkhand,Green Zone
+256,Godda,Jharkhand,Green Zone
+257,Gumla,Jharkhand,Green Zone
+258,Latehar,Jharkhand,Green Zone
+259,Lohardaga,Jharkhand,Green Zone
+260,Pakur,Jharkhand,Green Zone
+261,Palamu,Jharkhand,Green Zone
+262,Sahebganj,Jharkhand,Green Zone
+263,Saraikela Kharsawan,Jharkhand,Green Zone
+264,West Singhbhum,Jharkhand,Green Zone
+265,Khunti,Jharkhand,Green Zone
+266,Ramgarh,Jharkhand,Green Zone
+267,Bengaluru Urban,Karnataka,Red Zone
+268,Mysuru,Karnataka,Red Zone
+269,Bengaluru Rural,Karnataka,Red Zone
+270,Belagavi,Karnataka,Orange Zone
+271,Vijayapura,Karnataka,Orange Zone
+272,Kalaburagi,Karnataka,Orange Zone
+273,Bagalkote,Karnataka,Orange Zone
+274,Mandya,Karnataka,Orange Zone
+275,Ballari,Karnataka,Orange Zone
+276,Dharwad,Karnataka,Orange Zone
+277,Dakshina Kannada,Karnataka,Orange Zone
+278,Bidar,Karnataka,Orange Zone
+279,Chikkaballapura,Karnataka,Orange Zone
+280,Gadag,Karnataka,Orange Zone
+281,Uttara Kannada,Karnataka,Orange Zone
+282,Tumakuru,Karnataka,Orange Zone
+283,Davangere,Karnataka,Green Zone
+284,Udupi,Karnataka,Green Zone
+285,Chamarajanagara,Karnataka,Green Zone
+286,Chikkamagaluru,Karnataka,Green Zone
+287,Chitradurga,Karnataka,Green Zone
+288,Hassan,Karnataka,Green Zone
+289,Haveri,Karnataka,Green Zone
+290,Kodagu,Karnataka,Green Zone
+291,Kolar,Karnataka,Green Zone
+292,Koppa I,Karnataka,Green Zone
+293,Raichur,Karnataka,Green Zone
+294,Shivamogga,Karnataka,Green Zone
+295,Ramanagara,Karnataka,Green Zone
+296,Yadgir,Karnataka,Green Zone
+297,Kannur,Kerala,Red Zone
+298,Kottayam,Kerala,Red Zone
+299,Kasaragod,Kerala,Orange Zone
+300,ldukki,Kerala,Orange Zone
+301,Kozhikode,Kerala,Orange Zone
+302,Kollam,Kerala,Orange Zone
+303,Palakkad,Kerala,Orange Zone
+304,Pathanamthitta,Kerala,Orange Zone
+305,Malappuram,Kerala,Orange Zone
+306,Thiruvananthapuram,Kerala,Orange Zone
+307,Alappuzha,Kerala,Orange Zone
+308,Thrissur,Kerala,Orange Zone
+309,Ernakulam,Kerala,Green Zone
+310,Wayanad,Kerala,Green Zone
+311,Lehladakh,Ladakh,Orange Zone
+312,Kargil,Ladakh,Orange Zone
+313,Lakshadweep District,Lakshadweep,Green Zone
+314,Indore,Madhya Pradesh,Red Zone
+315,Bhopal,Madhya Pradesh,Red Zone
+316,Ujjain,Madhya Pradesh,Red Zone
+317,Jabalpur,Madhya Pradesh,Red Zone
+318,Dhar,Madhya Pradesh,Red Zone
+319,Barwani,Madhya Pradesh,Red Zone
+320,East Nimar,Madhya Pradesh,Red Zone
+321,Dewas,Madhya Pradesh,Red Zone
+322,Gwalior,Madhya Pradesh,Red Zone
+323,Khargone,Madhya Pradesh,Orange Zone
+324,Raisen,Madhya Pradesh,Orange Zone
+325,Hoshangabad,Madhya Pradesh,Orange Zone
+326,Ratlam,Madhya Pradesh,Orange Zone
+327,Agar Malwa,Madhya Pradesh,Orange Zone
+328,Mandsaur,Madhya Pradesh,Orange Zone
+329,Sagar,Madhya Pradesh,Orange Zone
+330,Shajapur,Madhya Pradesh,Orange Zone
+331,Chhindwara,Madhya Pradesh,Orange Zone
+332,Alirajpur,Madhya Pradesh,Orange Zone
+333,Tikamgarh,Madhya Pradesh,Orange Zone
+334,Shahdol,Madhya Pradesh,Orange Zone
+335,Sheopur,Madhya Pradesh,Orange Zone
+336,Dindori,Madhya Pradesh,Orange Zone
+337,Burhanpur,Madhya Pradesh,Orange Zone
+338,Harda,Madhya Pradesh,Orange Zone
+339,Betul,Madhya Pradesh,Orange Zone
+340,Vidisha,Madhya Pradesh,Orange Zone
+341,Morena,Madhya Pradesh,Orange Zone
+342,Rewa,Madhya Pradesh,Green Zone
+343,Ashoknagar,Madhya Pradesh,Green Zone
+344,Rajgarh,Madhya Pradesh,Green Zone
+345,Shivpuri,Madhya Pradesh,Green Zone
+346,Anuppur,Madhya Pradesh,Green Zone
+347,Balaghat,Madhya Pradesh,Green Zone
+348,Bhind,Madhya Pradesh,Green Zone
+349,Chhatarpur,Madhya Pradesh,Green Zone
+350,Da oh,Madhya Pradesh,Green Zone
+351,Datia,Madhya Pradesh,Green Zone
+352,Guna,Madhya Pradesh,Green Zone
+353,Jhabua,Madhya Pradesh,Green Zone
+354,Katni,Madhya Pradesh,Green Zone
+355,Mandia,Madhya Pradesh,Green Zone
+356,Narsinghpur,Madhya Pradesh,Green Zone
+357,Nee much,Madhya Pradesh,Green Zone
+358,Panna,Madhya Pradesh,Green Zone
+359,Satna,Madhya Pradesh,Green Zone
+360,Sehore,Madhya Pradesh,Green Zone
+361,Seoni,Madhya Pradesh,Green Zone
+362,Sid hi,Madhya Pradesh,Green Zone
+363,Umaria,Madhya Pradesh,Green Zone
+364,Singrauli,Madhya Pradesh,Green Zone
+365,Niwari,Madhya Pradesh,Green Zone
+366,Mumbai,Maharashtra,Red Zone
+367,Pune,Maharashtra,Red Zone
+368,Thane,Maharashtra,Red Zone
+369,Nashik,Maharashtra,Red Zone
+370,Palghar,Maharashtra,Red Zone
+371,Nagpur,Maharashtra,Red Zone
+372,Solapur,Maharashtra,Red Zone
+373,Yavatmal,Maharashtra,Red Zone
+374,Aurangabad,Maharashtra,Red Zone
+375,Satara,Maharashtra,Red Zone
+376,Dhule,Maharashtra,Red Zone
+377,Ako la,Maharashtra,Red Zone
+378,Jalgaon,Maharashtra,Red Zone
+379,Mumbai Suburban,Maharashtra,Red Zone
+380,Raigad,Maharashtra,Orange Zone
+381,Ahmednagar,Maharashtra,Orange Zone
+382,Amravati,Maharashtra,Orange Zone
+383,Buldhana,Maharashtra,Orange Zone
+384,Nandurbar,Maharashtra,Orange Zone
+385,Kolhapur,Maharashtra,Orange Zone
+386,Hingoli,Maharashtra,Orange Zone
+387,Ratnagiri,Maharashtra,Orange Zone
+388,Jalna,Maharashtra,Orange Zone
+389,Nanded,Maharashtra,Orange Zone
+390,Chandrapur,Maharashtra,Orange Zone
+391,Parbhani,Maharashtra,Orange Zone
+392,Sangli,Maharashtra,Orange Zone
+393,Latur,Maharashtra,Orange Zone
+394,Bhandara,Maharashtra,Orange Zone
+395,Beed,Maharashtra,Orange Zone
+396,Osmanabad,Maharashtra,Green Zone
+397,Washim,Maharashtra,Green Zone
+398,Sindhudurg,Maharashtra,Green Zone
+399,Gandia,Maharashtra,Green Zone
+400,Gadchiroli,Maharashtra,Green Zone
+401,Wardha,Maharashtra,Green Zone
+402,Imphal West,Manipur,Green Zone
+403,Thoubal,Manipur,Green Zone
+404,Bishnupur,Manipur,Green Zone
+405,Chandel,Manipur,Green Zone
+406,Churachandpur,Manipur,Green Zone
+407,Imphal East,Manipur,Green Zone
+408,Senapati,Manipur,Green Zone
+409,Tamenglong,Manipur,Green Zone
+410,Ukhrul,Manipur,Green Zone
+411,Kakching,Manipur,Green Zone
+412,Kangpokpi,Manipur,Green Zone
+413,Jiribam,Manipur,Green Zone
+414,Nonev,Manipur,Green Zone
+415,Pherzawl,Manipur,Green Zone
+416,Tengnoupal,Manipur,Green Zone
+417,Kamjong,Manipur,Green Zone
+418,East Khasi Hills,Meghalaya,Orange Zone
+419,East Garo Hills,Meghalaya,Green Zone
+420,West Jaintia Hills,Meghalaya,Green Zone
+421,Ri Bhoi,Meghalaya,Green Zone
+422,South Garo Hills,Meghalaya,Green Zone
+423,West Garo Hills,Meghalaya,Green Zone
+424,West Khasi Hills,Meghalaya,Green Zone
+425,North Garo Hills,Meghalaya,Green Zone
+426,East Jaintia Hills,Meghalaya,Green Zone
+427,South West Khasi Hills,Meghalaya,Green Zone
+428,South West Garo Hills,Meghalaya,Green Zone
+429,Aizawl,Mizoram,Green Zone
+430,Champhai,Mizoram,Green Zone
+431,Kolasib,Mizoram,Green Zone
+432,Lawngtlai,Mizoram,Green Zone
+433,Lunglei,Mizoram,Green Zone
+434,Mamit,Mizoram,Green Zone
+435,Saiha,Mizoram,Green Zone
+436,Serchhip,Mizoram,Green Zone
+437,Hnahthial,Mizoram,Green Zone
+438,Saitual,Mizoram,Green Zone
+439,Khawzawl,Mizoram,Green Zone
+440,Dimapur,Nagaland,Green Zone
+441,Kohima,Nagaland,Green Zone
+442,Mokokchung,Nagaland,Green Zone
+443,Mon,Nagaland,Green Zone
+444,Phek,Nagaland,Green Zone
+445,Tuensang,Nagaland,Green Zone
+446,Wokha,Nagaland,Green Zone
+447,Zunheboto,Nagaland,Green Zone
+448,Peren,Nagaland,Green Zone
+449,Kiphire,Nagaland,Green Zone
+450,Longleng,Nagaland,Green Zone
+451,Jajapur,Orrisa,Red Zone
+452,Bhadrak,Orrisa,Red Zone
+453,Baleshwar,Orrisa,Red Zone
+454,Khordha,Orrisa,Orange Zone
+455,Sundargarh,Orrisa,Orange Zone
+456,Kendrapara,Orrisa,Orange Zone
+457,Kora put,Orrisa,Orange Zone
+458,Dhenkanal,Orrisa,Orange Zone
+459,Kalahandi,Orrisa,Orange Zone
+460,Cuttack,Orrisa,Green Zone
+461,Puri,Orrisa,Green Zone
+462,Anugul,Orrisa,Green Zone
+463,Balangir,Orrisa,Green Zone
+464,Bargarh,Orrisa,Green Zone
+465,Boudh,Orrisa,Green Zone
+466,Deogarh,Orrisa,Green Zone
+467,Gajapati,Orrisa,Green Zone
+468,Ganjam,Orrisa,Green Zone
+469,Jagatsinghapu r,Orrisa,Green Zone
+470,Jharsuguda,Orrisa,Green Zone
+471,Kandhamal,Orrisa,Green Zone
+472,Kendujhar,Orrisa,Green Zone
+473,Malkangiri,Orrisa,Green Zone
+474,Mayurbhanj,Orrisa,Green Zone
+475,Nabarangpur,Orrisa,Green Zone
+476,Nayagarh,Orrisa,Green Zone
+477,Nuapada,Orrisa,Green Zone
+478,Rayagada,Orrisa,Green Zone
+479,Sambalpur,Orrisa,Green Zone
+480,Sonepur,Orrisa,Green Zone
+481,Pondicherry,Puducherry,Orange Zone
+482,Karaikal,Puducherry,Green Zone
+483,Mahe,Puducherry,Green Zone
+484,Yanam,Puducherry,Green Zone
+485,Jalandhar,Punjab,Red Zone
+486,Patiala,Punjab,Red Zone
+487,Ludhiana,Punjab,Red Zone
+488,SAS Nagar,Punjab,Orange Zone
+489,Pathankot,Punjab,Orange Zone
+490,Mansa,Punjab,Orange Zone
+491,Tarn Taran,Punjab,Orange Zone
+492,Amritsar,Punjab,Orange Zone
+493,Kapurthala,Punjab,Orange Zone
+494,Hoshiarpur,Punjab,Orange Zone
+495,Faridkot,Punjab,Orange Zone
+496,Sangrur,Punjab,Orange Zone
+497,Shahid Bhagat Singh Nagar (Nawanshahr),Punjab,Orange Zone
+498,Firozepur,Punjab,Orange Zone
+499,Sri Muktsar Sahib,Punjab,Orange Zone
+500,Moga,Punjab,Orange Zone
+501,Gurdaspur,Punjab,Orange Zone
+502,Barna la,Punjab,Orange Zone
+503,Rupnagar (Ropar),Punjab,Green Zone
+504,Fatehgarh Sahib,Punjab,Green Zone
+505,Bathinda,Punjab,Green Zone
+506,Fazilka,Punjab,Green Zone
+507,Jaipur,Rajasthan,Red Zone
+508,Jodhpur,Rajasthan,Red Zone
+509,Kota,Rajasthan,Red Zone
+510,Ajmer,Rajasthan,Red Zone
+511,Bharatpur,Rajasthan,Red Zone
+512,Nagaur,Rajasthan,Red Zone
+513,Banswara,Rajasthan,Red Zone
+514,Jhalawar,Rajasthan,Red Zone
+515,Tonk,Rajasthan,Orange Zone
+516,Jaisalmer,Rajasthan,Orange Zone
+517,Dausa,Rajasthan,Orange Zone
+518,Jhunjhunu,Rajasthan,Orange Zone
+519,Hanumangarh,Rajasthan,Orange Zone
+520,Bhilwara,Rajasthan,Orange Zone
+521,Sawai Madhaopur,Rajasthan,Orange Zone
+522,Chittorgarh,Rajasthan,Orange Zone
+523,Dungarpur,Rajasthan,Orange Zone
+524,Udaipur,Rajasthan,Orange Zone
+525,Dholpur,Rajasthan,Orange Zone
+526,Sikar,Rajasthan,Orange Zone
+527,Alwar,Rajasthan,Orange Zone
+528,Bikaner,Rajasthan,Orange Zone
+529,Churu,Rajasthan,Orange Zone
+530,Pali,Rajasthan,Orange Zone
+531,Barmer,Rajasthan,Orange Zone
+532,Karauli,Rajasthan,Orange Zone
+533,Rajsamand,Rajasthan,Orange Zone
+534,Baran,Rajasthan,Green Zone
+535,Bundi,Rajasthan,Green Zone
+536,Ganganagar,Rajasthan,Green Zone
+537,Jalore,Rajasthan,Green Zone
+538,Sirohi,Rajasthan,Green Zone
+539,Pratapgarh,Rajasthan,Green Zone
+540,North District,Sikkim,Green Zone
+541,East District,Sikkim,Green Zone
+542,South District,Sikkim,Green Zone
+543,West District,Sikkim,Green Zone
+544,Chennai,Tamil Nadu,Red Zone
+545,Madurai,Tamil Nadu,Red Zone
+546,Namakkal,Tamil Nadu,Red Zone
+547,Thanjavur,Tamil Nadu,Red Zone
+548,Chengalpattu,Tamil Nadu,Red Zone
+549,Thiruvallur,Tamil Nadu,Red Zone
+550,Tiruppur,Tamil Nadu,Red Zone
+551,Rani pet,Tamil Nadu,Red Zone
+552,Virudhunagar,Tamil Nadu,Red Zone
+553,Thiruvarur,Tamil Nadu,Red Zone
+554,Ve II ore,Tamil Nadu,Red Zone
+555,Kanchipuram,Tamil Nadu,Red Zone
+556,Theni,Tamil Nadu,Orange Zone
+557,Tenkasi,Tamil Nadu,Orange Zone
+558,Nagapattinam,Tamil Nadu,Orange Zone
+559,Dindigul,Tamil Nadu,Orange Zone
+560,Villupuram,Tamil Nadu,Orange Zone
+561,Coimbatore,Tamil Nadu,Orange Zone
+562,Cuddalore,Tamil Nadu,Orange Zone
+563,Salem,Tamil Nadu,Orange Zone
+564,Karur,Tamil Nadu,Orange Zone
+565,Tuticorin,Tamil Nadu,Orange Zone
+566,Tiruchirappalli,Tamil Nadu,Orange Zone
+567,Tirupathur,Tamil Nadu,Orange Zone
+568,Kanniyakumari,Tamil Nadu,Orange Zone
+569,Tiruvannamalai,Tamil Nadu,Orange Zone
+570,Ramanathapuram,Tamil Nadu,Orange Zone
+571,Tirunelveli,Tamil Nadu,Orange Zone
+572,The Nilgiris,Tamil Nadu,Orange Zone
+573,Sivaganga,Tamil Nadu,Orange Zone
+574,Perambalur,Tamil Nadu,Orange Zone
+575,Kallakurichi,Tamil Nadu,Orange Zone
+576,Ariyalur,Tamil Nadu,Orange Zone
+577,Erode,Tamil Nadu,Orange Zone
+578,Pudukkottai,Tamil Nadu,Orange Zone
+579,Dharmapuri,Tamil Nadu,Orange Zone
+580,Krishnagiri,Tamil Nadu,Green Zone
+581,Hyderabad,Telangana,Red Zone
+582,Surya pet,Telangana,Red Zone
+583,Ranga Reddy,Telangana,Red Zone
+584,MedchalMalkajgiri,Telangana,Red Zone
+585,Vikarabad,Telangana,Red Zone
+586,Warangal Urban,Telangana,Red Zone
+587,Nizamabad,Telangana,Orange Zone
+588,JogulambaGadwal,Telangana,Orange Zone
+589,Nirmal,Telangana,Orange Zone
+590,Nalgonda,Telangana,Orange Zone
+591,Adilabad,Telangana,Orange Zone
+592,Sangareddy,Telangana,Orange Zone
+593,Kama reddy,Telangana,Orange Zone
+594,KumuramBheemAsifabad,Telangana,Orange Zone
+595,Karimnagar,Telangana,Orange Zone
+596,Khammam,Telangana,Orange Zone
+597,Mahabubnagar,Telangana,Orange Zone
+598,Jagitial,Telangana,Orange Zone
+599,RajannaSircilla,Telangana,Orange Zone
+600,JayashankarBhupalapa lly,Telangana,Orange Zone
+601,Medak,Telangana,Orange Zone
+602,Jangoan,Telangana,Orange Zone
+603,Narayanpet,Telangana,Orange Zone
+604,Manche rial,Telangana,Orange Zone
+605,Peddapalli,Telangana,Green Zone
+606,Nagarkurnool,Telangana,Green Zone
+607,Mulugu,Telangana,Green Zone
+608,BhadradriKothagudem,Telangana,Green Zone
+609,Mahabubabad,Telangana,Green Zone
+610,Siddipet,Telangana,Green Zone
+611,Warangal Rural,Telangana,Green Zone
+612,Wanaparthy,Telangana,Green Zone
+613,YadadriBhuvanagiri,Telangana,Green Zone
+614,North Tripura,Tripura,Orange Zone
+615,Gomati,Tripura,Orange Zone
+616,Dhalai,Tripura,Green Zone
+617,South Tripura,Tripura,Green Zone
+618,West Tripura,Tripura,Green Zone
+619,Khowai,Tripura,Green Zone
+620,Sepahijala,Tripura,Green Zone
+621,Unakoti,Tripura,Green Zone
+622,Agra,Uttar Pradesh,Red Zone
+623,Lucknow,Uttar Pradesh,Red Zone
+624,Saharanpur,Uttar Pradesh,Red Zone
+625,Kanpur Nagar,Uttar Pradesh,Red Zone
+626,Moradabad,Uttar Pradesh,Red Zone
+627,Firozabad,Uttar Pradesh,Red Zone
+628,Gautam Buddha Nagar,Uttar Pradesh,Red Zone
+629,Bulandshahr,Uttar Pradesh,Red Zone
+630,Meerut,Uttar Pradesh,Red Zone
+631,Rae Bareli,Uttar Pradesh,Red Zone
+632,Varanasi,Uttar Pradesh,Red Zone
+633,Bijnor,Uttar Pradesh,Red Zone
+634,Amroha,Uttar Pradesh,Red Zone
+635,Sant Kabeer Nagar,Uttar Pradesh,Red Zone
+636,Aligarh,Uttar Pradesh,Red Zone
+637,Muzaffarnagar,Uttar Pradesh,Red Zone
+638,Rampur,Uttar Pradesh,Red Zone
+639,Mathura,Uttar Pradesh,Red Zone
+640,Bareilly,Uttar Pradesh,Red Zone
+641,Ghaziabad,Uttar Pradesh,Orange Zone
+642,Hapur,Uttar Pradesh,Orange Zone
+643,Baghpat,Uttar Pradesh,Orange Zone
+644,Basti,Uttar Pradesh,Orange Zone
+645,Budaun,Uttar Pradesh,Orange Zone
+646,Sambhal,Uttar Pradesh,Orange Zone
+647,Auraiya,Uttar Pradesh,Orange Zone
+648,Sham Ii,Uttar Pradesh,Orange Zone
+649,Sitapur,Uttar Pradesh,Orange Zone
+650,Bahraich,Uttar Pradesh,Orange Zone
+651,Kannauj,Uttar Pradesh,Orange Zone
+652,Azamgarh,Uttar Pradesh,Orange Zone
+653,Mainpuri,Uttar Pradesh,Orange Zone
+654,Shravasti,Uttar Pradesh,Orange Zone
+655,Banda,Uttar Pradesh,Orange Zone
+656,Jaunpur,Uttar Pradesh,Orange Zone
+657,Etah,Uttar Pradesh,Orange Zone
+658,Kasganj,Uttar Pradesh,Orange Zone
+659,Sultanpur,Uttar Pradesh,Orange Zone
+660,Prayagraj,Uttar Pradesh,Orange Zone
+661,Jalaun,Uttar Pradesh,Orange Zone
+662,Mirzapur,Uttar Pradesh,Orange Zone
+663,Etawah,Uttar Pradesh,Orange Zone
+664,Pratapgarh,Uttar Pradesh,Orange Zone
+665,Ghazipur,Uttar Pradesh,Orange Zone
+666,Gonda,Uttar Pradesh,Orange Zone
+667,Mau,Uttar Pradesh,Orange Zone
+668,Bhadohi,Uttar Pradesh,Orange Zone
+669,Unnao,Uttar Pradesh,Orange Zone
+670,Pilibhit,Uttar Pradesh,Orange Zone
+671,Balrampur,Uttar Pradesh,Orange Zone
+672,Ayodhya,Uttar Pradesh,Orange Zone
+673,Gorakhpur,Uttar Pradesh,Orange Zone
+674,Jhansi,Uttar Pradesh,Orange Zone
+675,Hardoi,Uttar Pradesh,Orange Zone
+676,Kaushambi,Uttar Pradesh,Orange Zone
+677,Barabanki,Uttar Pradesh,Green Zone
+678,Kheri,Uttar Pradesh,Green Zone
+679,Hathras,Uttar Pradesh,Green Zone
+680,Maharajganj,Uttar Pradesh,Green Zone
+681,Shahjahanpur,Uttar Pradesh,Green Zone
+682,Ambedkar Nagar,Uttar Pradesh,Green Zone
+683,BaIlia,Uttar Pradesh,Green Zone
+684,Chandauli,Uttar Pradesh,Green Zone
+685,Chitrakoot,Uttar Pradesh,Green Zone
+686,Deoria,Uttar Pradesh,Green Zone
+687,Farrukhabad,Uttar Pradesh,Green Zone
+688,Fatehpur,Uttar Pradesh,Green Zone
+689,Hamirpur,Uttar Pradesh,Green Zone
+690,Kanpur Dehat,Uttar Pradesh,Green Zone
+691,Kushi Nagar,Uttar Pradesh,Green Zone
+692,Lalitpur,Uttar Pradesh,Green Zone
+693,Mahoba,Uttar Pradesh,Green Zone
+694,Siddharth Nagar,Uttar Pradesh,Green Zone
+695,Sonbhadra,Uttar Pradesh,Green Zone
+696,Amethi,Uttar Pradesh,Green Zone
+697,Haridwar,Uttarakhand,Red Zone
+698,Dehradun,Uttarakhand,Orange Zone
+699,Nainital,Uttarakhand,Orange Zone
+700,Udam Singh Nagar,Uttarakhand,Green Zone
+701,Almora,Uttarakhand,Green Zone
+702,Pauri Garhwal,Uttarakhand,Green Zone
+703,Bageshwar,Uttarakhand,Green Zone
+704,Chamoli,Uttarakhand,Green Zone
+705,Champawat,Uttarakhand,Green Zone
+706,Pithoraga rh,Uttarakhand,Green Zone
+707,RudraPrayag,Uttarakhand,Green Zone
+708,Tehri Garhwal,Uttarakhand,Green Zone
+709,Uttar Kashi,Uttarakhand,Green Zone
+710,Kolkata,West Bengal,Red Zone
+711,Howrah,West Bengal,Red Zone
+712,24 Paraganas North,West Bengal,Red Zone
+713,24 Paraganas South,West Bengal,Red Zone
+714,Medinipur West,West Bengal,Red Zone
+715,Medinipur East,West Bengal,Red Zone
+716,Darjeeling,West Bengal,Red Zone
+717,Jalpaiguri,West Bengal,Red Zone
+718,Kalimpong,West Bengal,Red Zone
+719,Maldah,West Bengal,Red Zone
+720,Hooghly,West Bengal,Orange Zone
+721,Paschim Bardhaman,West Bengal,Orange Zone
+722,Nadia,West Bengal,Orange Zone
+723,Purba Bardhaman,West Bengal,Orange Zone
+724,Murshidabad,West Bengal,Orange Zone
+725,Dinajpur Uttar,West Bengal,Green Zone
+726,Bankura,West Bengal,Green Zone
+727,Birbhum,West Bengal,Green Zone
+728,Coochbehar,West Bengal,Green Zone
+729,Dinajpur Dakshin,West Bengal,Green Zone
+730,Purulia,West Bengal,Green Zone
+731,Alipurduar,West Bengal,Green Zone
+732,Jhargram,West Bengal,Green Zone

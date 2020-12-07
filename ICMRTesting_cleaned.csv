@@ -1,0 +1,268 @@
+,city,state,type,latitude,longitude
+0,Port Blair,Andaman and Nicobar,Government Laboratory,11.6346545,92.71463709999999
+1,Naharlagun,Arunachal Pradesh,Collection Site,27.103885499999997,93.6910961
+2,Tirupati,Andhra Pradesh,Government Laboratory,13.6379378,79.4039118
+3,Kakinada,Andhra Pradesh,Government Laboratory,16.9791646,82.237258
+4,Vijayawada,Andhra Pradesh,Government Laboratory,16.5174383,80.6713233
+5,Anantapur,Andhra Pradesh,Government Laboratory,14.6712103,77.59287370000001
+6,Guntur,Andhra Pradesh,Government Laboratory,16.2982124,80.4383123
+7,Puttampalli,Andhra Pradesh,Government Laboratory,14.433235999999999,78.86444990000001
+8,Vishakhapatnam,Andhra Pradesh,Government Laboratory,17.706492800000003,83.304866
+9,Guwahati,Assam,Government Laboratory,26.1542109,91.7700714
+10,Dibrugarh,Assam,Government Laboratory,27.472705100000002,94.98279659999999
+11,Jorhat,Assam,Government Laboratory,26.742573800000002,94.1951087
+12,Silchar,Assam,Government Laboratory,24.775798,92.7949158
+13,Barpeta,Assam,Government Laboratory,26.324422499999997,90.9849772
+14,Tezpur,Assam,Government Laboratory,26.6814787,92.65227390000001
+15,Patna,Bihar,Government Laboratory,25.599738600000002,85.197722
+16,Patna,Bihar,Government Laboratory,25.6105573,85.0889323
+17,Patna,Bihar,Government Laboratory,25.620914199999998,85.16031679999999
+18,Darbhanga,Bihar,Government Laboratory,26.133774300000002,85.90158829999999
+19,Muzaffarpur,Bihar,Government Laboratory,26.1669211,85.3934566
+20,Patna,Bihar,Government Laboratory,25.562901999999998,85.0413338
+21,Chandigarh,Chandigarh,Government Laboratory,30.764964600000003,76.7750066
+22,Chandigarh,Chandigarh,Government Laboratory,30.708827000000003,76.7804878
+23,Chandigarh,Chandigarh,Government Laboratory,30.747768,76.7337
+24,Raipur,Chhattisgarh,Government Laboratory,21.2567797,81.5791788
+25,Jagdalpur,Chhattisgarh,Government Laboratory,19.0506869,81.94818120000001
+26,Raipur,Chhattisgarh,Government Laboratory,21.2521217,81.63942840000001
+27,Silvassa,Dadra and Nagar Haveli and Daman and Diu,Government Laboratory,20.2707155,73.00766340000001
+28,New Delhi,Delhi,Government Laboratory,28.567177299999997,77.21004509999999
+29,New Delhi,Delhi,Government Laboratory,28.634208,77.2125679
+30,New Delhi,Delhi,Government Laboratory,28.679468100000005,77.223585
+31,New Delhi,Delhi,Government Laboratory,28.6257093,77.2006339
+32,New Delhi,Delhi,Government Laboratory,28.506639500000002,77.16614
+33,New Delhi,Delhi,Government Laboratory,28.583650300000002,77.15787370000001
+34,New Delhi,Delhi,Government Laboratory,28.6357398,77.2400709
+35,New Delhi,Delhi,Government Laboratory,28.567163300000004,77.2075551
+36,New Delhi,Delhi,Private Laboratory,28.7388534,77.1364103
+37,New Delhi,Delhi,Private Laboratory,28.550132399999995,77.2034503
+38,New Delhi,Delhi,Private Laboratory,28.541389600000002,77.28379040000002
+39,New Delhi,Delhi,Private Laboratory,28.527638,77.2120949
+40,New Delhi,Delhi,Private Laboratory,28.638800899999996,77.1901027
+41,New Delhi,Delhi,Private Laboratory,28.568484,77.20180500000001
+42,New Delhi,Delhi,Private Laboratory,28.580235,77.05098559999999
+43,New Delhi,Delhi,Private Laboratory,28.639607199999997,77.0962882
+44,New Delhi,Delhi,Private Laboratory,28.560078999999998,77.2046567
+45,New Delhi,Delhi,Private Laboratory,28.6433037,77.1798616
+46,Ahmedabad,Gujarat,Government Laboratory,23.0524508,72.6028567
+47,Jamnagar,Gujarat,Government Laboratory,22.4773074,70.06523990000001
+48,Surat,Gujarat,Government Laboratory,21.1780573,72.82025240000002
+49,Bhavnagar,Gujarat,Government Laboratory,21.768738100000004,72.13698520000001
+50,Vadodara,Gujarat,Government Laboratory,22.3043783,73.1918191
+51,Rajkot,Gujarat,Government Laboratory,22.3049715,70.7984304
+52,Ahmedabad,Gujarat,Government Laboratory,23.0186615,72.5713277
+53,Ahmedabad,Gujarat,Government Laboratory,23.082775100000003,72.52488659999999
+54,Ahmedabad,Gujarat,Government Laboratory,23.054771,72.6107296
+55,Surat,Gujarat,Government Laboratory,21.1975074,72.84501230000001
+56,Ahmedabad,Gujarat,Private Laboratory,23.0191034,72.5556622
+57,Ahmedabad,Gujarat,Private Laboratory,23.0198295,72.5592869
+58,Surat,Gujarat,Private Laboratory,21.1833745,72.8143657
+59,Ahmedabad,Gujarat,Private Laboratory,23.0195647,72.5606113
+60,Goa,Goa,Government Laboratory,15.4643263,73.8584025
+61,Rohtak,Haryana,Government Laboratory,28.8801261,76.60556820000001
+62,Sonipat,Haryana,Government Laboratory,29.152057300000003,76.8083989
+63,Faridabad,Haryana,Government Laboratory,28.3944107,77.2937012
+64,Hisar,Haryana,Government Laboratory,29.133565100000002,75.7528328
+65,Karnal,Haryana,Government Laboratory,29.697012599999997,76.9900411
+66,Gurugram,Haryana,Private Laboratory,28.429437899999996,77.0155385
+67,Gurugram,Haryana,Private Laboratory,28.489103999999998,77.061689
+68,Gurugram,Haryana,Private Laboratory,28.466008000000002,77.02697409999999
+69,Gurugram,Haryana,Private Laboratory,28.5092887,77.0916438
+70,Gurugram,Haryana,Private Laboratory,28.500762400000003,77.07176820000001
+71,Gurugram,Haryana,Private Laboratory,28.4930097,77.08266309999999
+72,Shimla,Himachal Pradesh,Government Laboratory,31.106490100000002,77.18225179999999
+73,Kangra,Himachal Pradesh,Government Laboratory,32.0991951,76.2986883
+74,Kasauli,Himachal Pradesh,Government Laboratory,30.899649100000005,76.96462240000001
+75,Jammu,Jammu and Kashmir,Government Laboratory,32.7361128,74.85397370000001
+76,Udhampur,Jammu and Kashmir,Government Laboratory,32.930786499999996,75.1353478
+77,Srinagar,Jammu and Kashmir,Government Laboratory,34.136145,74.8000465
+78,Srinagar,Jammu and Kashmir,Government Laboratory,34.0859652,74.7988339
+79,Jamshedpur,Jharkhand,Government Laboratory,22.843664,86.232396
+80,Ranchi,Jharkhand,Government Laboratory,23.391505600000002,85.34845370000001
+81,Dhanbad,Jharkhand,Government Laboratory,23.8086527,86.46240470000001
+82,Hassan,Karnataka,Government Laboratory,13.0048638,76.1026865
+83,Mysuru,Karnataka,Government Laboratory,12.3150229,76.6504047
+84,Shivamogga,Karnataka,Government Laboratory,13.932652599999999,75.5668522
+85,Bengaluru,Karnataka,Government Laboratory,12.9646503,77.62813620000001
+86,Bengaluru,Karnataka,Government Laboratory,12.959395800000001,77.5747214
+87,Bengaluru,Karnataka,Government Laboratory,12.9373283,77.59083670000001
+88,Gulbarga,Karnataka,Government Laboratory,17.32723,76.844089
+89,Bengaluru,Karnataka,Government Laboratory,12.9406819,77.5982643
+90,Bellary,Karnataka,Government Laboratory,15.1529479,76.8966905
+91,Mangalore,Karnataka,Government Laboratory,12.867383,74.843131
+92,Hubli,Karnataka,Government Laboratory,15.361600199999998,75.13072009999999
+93,Belagavi,Karnataka,Government Laboratory,15.8872725,74.5234387
+94,Bengaluru,Karnataka,Private Laboratory,12.9814606,77.6061478
+95,Bengaluru,Karnataka,Private Laboratory,12.9575987,77.56676999999999
+96,Bengaluru,Karnataka,Private Laboratory,12.9323275,77.68518859999999
+97,Bengaluru,Karnataka,Private Laboratory,12.9754462,77.7309473
+98,Bengaluru,Karnataka,Private Laboratory,12.8962841,77.5984218
+99,Vandanam,Kerala,Government Laboratory,9.4185125,76.3431999
+100,Thiruvananthapuram,Kerala,Government Laboratory,8.523432000000001,76.9282855
+101,Kozhikode,Kerala,Government Laboratory,11.272211,75.8371979
+102,Thrissur,Kerala,Government Laboratory,10.6144974,76.1960673
+103,Thiruvananthapuram,Kerala,Government Laboratory,8.492354400000002,76.9668745
+104,Thiruvananthapuram,Kerala,Government Laboratory,8.521666699999999,76.9263889
+105,Thiruvananthapuram,Kerala,Government Laboratory,8.498272,76.9394667
+106,Thalappady,Kerala,Government Laboratory,9.5752366,76.5789463
+107,Thalassery,Kerala,Government Laboratory,11.7493909,75.5239389
+108,Kasaragod,Kerala,Government Laboratory,12.3929071,75.0916816
+109,Ernakulam,Kerala,Private Laboratory,9.963529199999998,76.2952832
+110,Kozhikode,Kerala,Private Laboratory,11.2457941,75.798659
+111,Ladakh,Ladakh,Collection Site,34.1534817,77.58062120000001
+112,Pune,Maharashtra,Government Laboratory,18.5432517,73.7889215
+113,Mumbai,Maharashtra,Government Laboratory,19.0024531,72.8422882
+114,Mumbai,Maharashtra,Government Laboratory,18.984036399999997,72.82984870000001
+115,Mumbai,Maharashtra,Government Laboratory,19.0020772,72.8440002
+116,Pune,Maharashtra,Government Laboratory,18.5040375,73.8900961
+117,Pune,Maharashtra,Government Laboratory,18.5262332,73.87113120000001
+118,Nagpur,Maharashtra,Government Laboratory,21.153418,79.0939735
+119,Mumbai,Maharashtra,Government Laboratory,18.963068399999997,72.8336083
+120,Aurangabad,Maharashtra,Government Laboratory,19.889996300000004,75.31815350000001
+121,Solapur,Maharashtra,Government Laboratory,17.665311,75.909637
+122,Mumbai,Maharashtra,Government Laboratory,19.002050699999998,72.84374720000001
+123,Dhule,Maharashtra,Government Laboratory,20.863953600000002,74.7623454
+124,Miraj,Maharashtra,Government Laboratory,16.837025399999998,74.64740069999999
+125,Nagpur,Maharashtra,Government Laboratory,21.0385558,79.0237737
+126,Nagpur,Maharashtra,Government Laboratory,21.165217600000002,79.0459737
+127,Navi Mumbai,Maharashtra,Government Laboratory,19.0652582,73.06475970000001
+128,Mumbai,Maharashtra,Government Laboratory,20.702596600000003,77.001948
+129,Pune,Maharashtra,Government Laboratory,18.547192199999998,73.8315479
+130,Mumbai,Maharashtra,Government Laboratory,19.0024764,72.84081090000001
+131,Thane,Maharashtra,Government Laboratory,19.191212699999998,72.9867026
+132,Navi Mumbai,Maharashtra,Private Laboratory,19.061697,73.0255759
+133,Mumbai,Maharashtra,Private Laboratory,19.137332,72.82607390000001
+134,Mumbai,Maharashtra,Private Laboratory,19.082010699999998,72.88572049999999
+135,Navi Mumbai,Maharashtra,Private Laboratory,19.139211,73.0044572
+136,Mumbai,Maharashtra,Private Laboratory,19.171397600000002,72.84561500000001
+137,Mumbai,Maharashtra,Private Laboratory,18.5188049,73.8309165
+138,Mumbai,Maharashtra,Private Laboratory,19.131254199999997,72.8250636
+139,Thane,Maharashtra,Private Laboratory,19.1950362,72.9485606
+140,Mumbai,Maharashtra,Private Laboratory,19.110260600000004,72.8870881
+141,Mumbai,Maharashtra,Private Laboratory,19.004901899999997,72.8431686
+142,Pune,Maharashtra,Private Laboratory,18.5077536,73.8044186
+143,Mumbai,Maharashtra,Private Laboratory,19.236646,72.845794
+144,Pune,Maharashtra,Private Laboratory,18.518273,73.8344472
+145,Pune,Maharashtra,Private Laboratory,18.5333826,73.87701729999999
+146,Mumbai,Maharashtra,Private Laboratory,19.1760571,72.9537628
+147,Mumbai,Maharashtra,Private Laboratory,19.0420125,72.8429749
+148,Mumbai,Maharashtra,Private Laboratory,19.1928843,72.8416863
+149,Pune,Maharashtra,Private Laboratory,18.625716,73.774776
+150,Mumbai,Maharashtra,Private Laboratory,19.0335001,72.838349
+151,Bhopal,Madhya Pradesh,Government Laboratory,23.2067582,77.4601622
+152,Jabalpur,Madhya Pradesh,Government Laboratory,23.1472217,79.8785864
+153,Indore,Madhya Pradesh,Government Laboratory,22.714332000000002,75.8828785
+154,Bhopal,Madhya Pradesh,Government Laboratory,23.2599254,77.39095920000001
+155,Bhopal,Madhya Pradesh,Government Laboratory,23.3003886,77.41681609999999
+156,Gwalior,Madhya Pradesh,Government Laboratory,26.1940788,78.16202790000001
+157,Bhopal,Madhya Pradesh,Government Laboratory,23.254348,77.493589
+158,Gwalior,Madhya Pradesh,Government Laboratory,26.2226213,78.1810262
+159,Sagar,Madhya Pradesh,Government Laboratory,23.818953,78.75488259999999
+160,Bhopal,Madhya Pradesh,Private Laboratory,23.2689157,77.3080746
+161,Imphal,Manipur,Government Laboratory,24.810074399999998,93.9611346
+162,Imphal,Manipur,Government Laboratory,24.8158998,93.92280509999999
+163,Shillong,Meghalaya,Government Laboratory,25.5907284,91.9398369
+164,Aizawl,Mizoram,Government Laboratory,23.6228763,92.7279958
+165,Bhubaneswar,Odisha,Government Laboratory,20.3166497,85.819505
+166,Bhubaneswar,Odisha,Government Laboratory,20.2310782,85.7750856
+167,Cuttack,Odisha,Government Laboratory,20.472631,85.8874618
+168,Berhampur,Odisha,Government Laboratory,19.3076088,84.8109694
+169,Bhubaneswar,Odisha,Government Laboratory,20.314052800000002,85.81745790000001
+170,Rourkela,Odisha,Government Laboratory,22.263417699999998,84.8665443
+171,Bhubaneswar,Odisha,Private Laboratory,20.3057093,85.83173520000001
+172,Puducherry,Puducherry,Government Laboratory,11.9533761,79.79964629999999
+173,Amritsar,Punjab,Government Laboratory,31.6538532,74.88522579999999
+174,Patiala,Punjab,Government Laboratory,30.328062699999997,76.38512840000001
+175,Faridkot,Punjab,Government Laboratory,30.6822788,74.7472873
+176,Ludhiana,Punjab,Private Laboratory,30.9142697,75.8228899
+177,Amritsar,Punjab,Private Laboratory,31.653323999999998,74.88758
+178,Jaipur,Rajasthan,Government Laboratory,26.905383899999997,75.8188203
+179,Jodhpur,Rajasthan,Government Laboratory,26.2694214,73.007409
+180,Jhalawar,Rajasthan,Government Laboratory,24.5855602,76.161038
+181,Udaipur,Rajasthan,Government Laboratory,24.588214999999998,73.6949805
+182,Bikaner,Rajasthan,Government Laboratory,28.006388899999997,73.3305142
+183,Jodhpur,Rajasthan,Government Laboratory,26.240205100000004,73.00496209999999
+184,Ajmer,Rajasthan,Government Laboratory,26.4672983,74.63634
+185,Kota,Rajasthan,Government Laboratory,25.1235758,75.8296463
+186,Jaipur,Rajasthan,Private Laboratory,26.7702525,75.8543438
+187,Gangtok,Sikkim,Collection Site,27.346533100000002,88.6033718
+188,Chennai,Tamil Nadu,Government Laboratory,13.0124413,80.21761059999999
+189,Chennai,Tamil Nadu,Government Laboratory,13.0799717,80.2722928
+190,Theni,Tamil Nadu,Government Laboratory,10.006192500000001,77.5536939
+191,Tirunelveli,Tamil Nadu,Government Laboratory,8.7117515,77.7508167
+192,Thiruvar,Tamil Nadu,Government Laboratory,10.776457,79.60602800000001
+193,Salem,Tamil Nadu,Government Laboratory,11.671596800000001,78.0675407
+194,Coimbatore,Tamil Nadu,Government Laboratory,11.0286992,77.0239032
+195,Villupuram,Tamil Nadu,Government Laboratory,11.9943059,79.5152109
+196,Madurai,Tamil Nadu,Government Laboratory,9.9273329,78.13604740000001
+197,Trichy,Tamil Nadu,Government Laboratory,10.7976359,78.67930290000001
+198,Perundurai,Tamil Nadu,Government Laboratory,11.282591,77.567098
+199,Dharmapuri,Tamil Nadu,Government Laboratory,12.1233883,78.157503
+200,Vellore,Tamil Nadu,Government Laboratory,12.845182099999999,79.1370598
+201,Chennai,Tamil Nadu,Government Laboratory,13.046315,80.24919320000001
+202,Chennai,Tamil Nadu,Government Laboratory,13.1006031,80.1397812
+203,Nagercoil,Tamil Nadu,Government Laboratory,8.1739367,77.3962033
+204,Vellore,Tamil Nadu,Private Laboratory,12.9246021,79.13481290000001
+205,Chennai,Tamil Nadu,Private Laboratory,13.0633501,80.25151650000001
+206,Chennai,Tamil Nadu,Private Laboratory,13.0485951,80.266065
+207,Chennai,Tamil Nadu,Private Laboratory,13.014515,80.15274620000001
+208,Coimbatore,Tamil Nadu,Private Laboratory,11.0233539,76.9104371
+209,Chennai,Tamil Nadu,Private Laboratory,12.950337800000002,80.2546804
+210,Trichy,Tamil Nadu,Private Laboratory,10.7976359,78.67930290000001
+211,Chennai,Tamil Nadu,Private Laboratory,13.0861477,80.18737349999999
+212,Chennai,Tamil Nadu,Private Laboratory,13.0215835,80.1855798
+213,Coimbatore,Tamil Nadu,Private Laboratory,11.0294727,77.0256004
+214,Secunderabad,Telangana,Government Laboratory,17.4246598,78.5043917
+215,Hyderabad,Telangana,Government Laboratory,17.3822473,78.48285729999999
+216,Hyderabad,Telangana,Government Laboratory,17.4455247,78.47224279999999
+217,Hyderabad,Telangana,Government Laboratory,17.4223988,78.4548171
+218,Hyderabad,Telangana,Government Laboratory,17.394054399999998,78.49028919999999
+219,Hyderabad,Telangana,Government Laboratory,17.421021,78.54103549999999
+220,Hyderabad,Telangana,Government Laboratory,17.3933676,78.5575329
+221,Hyderabad,Telangana,Private Laboratory,17.413787600000003,78.4119234
+222,Hyderabad,Telangana,Private Laboratory,17.4041605,78.4798766
+223,Hyderabad,Telangana,Private Laboratory,17.4706411,78.6023032
+224,Hyderabad,Telangana,Private Laboratory,17.4691185,78.4843302
+225,Hyderabad,Telangana,Private Laboratory,17.4244891,78.45304499999999
+226,Hyderabad,Telangana,Private Laboratory,17.5214292,78.6325006
+227,Hyderabad,Telangana,Private Laboratory,17.4705903,78.3113998
+228,Hyderabad,Telangana,Private Laboratory,17.458765600000003,78.4783593
+229,Secunderabad,Telangana,Private Laboratory,17.4420712,78.49705259999999
+230,Hyderabad,Telangana,Private Laboratory,17.533533,78.3926213
+231,Hyderabad,Telangana,Private Laboratory,17.4157767,78.44542790000001
+232,Hyderabad,Telangana,Private Laboratory,17.428668300000002,78.4466743
+233,Agartala,Tripura,Government Laboratory,23.8604332,91.2927536
+234,Lucknow,Uttar Pradesh,Government Laboratory,26.8692591,80.9162402
+235,Varanasi,Uttar Pradesh,Government Laboratory,25.2744547,82.99952540000001
+236,Aligarh,Uttar Pradesh,Government Laboratory,27.918604,78.0857405
+237,Lucknow,Uttar Pradesh,Government Laboratory,26.8174503,80.9408179
+238,Meerut,Uttar Pradesh,Government Laboratory,28.960005699999996,77.75022340000001
+239,Lucknow,Uttar Pradesh,Government Laboratory,26.743543900000002,80.9452064
+240,Saifai,Uttar Pradesh,Government Laboratory,26.960839399999998,78.9605853
+241,Gorakhpur,Uttar Pradesh,Government Laboratory,26.814118800000003,83.39962059999999
+242,Jhansi,Uttar Pradesh,Government Laboratory,25.460012699999996,78.61464649999999
+243,Prayagraj,Uttar Pradesh,Government Laboratory,25.4503137,81.8518907
+244,Lucknow,Uttar Pradesh,Government Laboratory,26.8692675,81.0030807
+245,Agra,Uttar Pradesh,Government Laboratory,27.187973100000004,78.0092051
+246,Greater Noida,Uttar Pradesh,Government Laboratory,28.4331478,77.5332241
+247,Kanpur,Uttar Pradesh,Government Laboratory,26.480943100000005,80.3075733
+248,Noida,Uttar Pradesh,Government Laboratory,28.6276216,77.3575286
+249,Lucknow,Uttar Pradesh,Private Laboratory,26.8751829,80.93772129999999
+250,Noida,Uttar Pradesh,Private Laboratory,28.515437899999995,77.3714472
+251,Haldwani,Uttarakhand,Government Laboratory,29.206397499999998,79.52138120000001
+252,Rishikesh,Uttarakhand,Government Laboratory,30.081835100000003,78.28876329999999
+253,Dehradun,Uttarakhand,Private Laboratory,30.326819899999997,78.0470366
+254,Kolkata,West Bengal,Government Laboratory,22.5658475,88.399816
+255,Kolkata,West Bengal,Government Laboratory,22.5394793,88.3418445
+256,Midnapore,West Bengal,Government Laboratory,22.4216543,87.32313459999999
+257,Siliguri,West Bengal,Government Laboratory,26.690732500000003,88.38490920000001
+258,Kolkata,West Bengal,Government Laboratory,22.574963,88.359773
+259,Malda,West Bengal,Government Laboratory,24.9925941,88.14126340000001
+260,Kolkata,West Bengal,Government Laboratory,22.5299582,88.330457
+261,Kolkata,West Bengal,Private Laboratory,22.574754000000002,88.401617
+262,Kolkata,West Bengal,Private Laboratory,22.577097100000003,88.4796319
+263,Kolkata,West Bengal,Private Laboratory,22.4806837,88.3941722
+264,Kolkata,West Bengal,Private Laboratory,22.5683058,88.41166559999999
+265,Kolkata,West Bengal,Private Laboratory,22.5806455,88.4761115
+266,Kolkata,West Bengal,Private Laboratory,22.577461,88.4668507
