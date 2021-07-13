@@ -14,4 +14,4 @@ India with the rest of the world in her battle against the pandemic
 
 <br>
 The cleaning and analysis codes are contained in "Cleaning.ipynb" and "Analysis.ipynb" respectively.
-"DS203_Project_Report" contains a detailed report for the same.
+"DS203_Project_Report.pdf" contains a detailed report for the same.
